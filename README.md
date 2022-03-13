@@ -4,3 +4,5 @@ Site para currículo com responsividade, tema light/dark mode 🌗 e opção de 
 
 Projeto feito com HTML, CSS e Javascript. 
 
+https://moraisacr.github.io/curriculo/
+
